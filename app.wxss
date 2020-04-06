@@ -11,3 +11,7 @@ navigator {
   margin: 0;
   box-sizing: border-box;
 }
+page{
+  --themeColor:#eb4450;
+  font-size: 28rpx;
+}
