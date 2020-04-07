@@ -1,1 +1,4 @@
-<view>首页</view>
+<view class="pyg_index">
+<!-- 搜索框区域 -->
+<SearchInput></SearchInput>
+</view>
